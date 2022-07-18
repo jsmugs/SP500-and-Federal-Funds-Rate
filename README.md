@@ -1,1 +1,1 @@
-# SP500-and-Federal-Funds-Rate
+# S&P500-and-Federal-Funds-Rate
